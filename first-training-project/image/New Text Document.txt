@@ -1,0 +1,3 @@
+width=300px
+hitht=600px
+regulation=72
